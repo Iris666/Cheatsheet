@@ -1,6 +1,6 @@
 ## More information please check about https://ss64.com/osx/
-### pwd       *Print Wokring Directory*
-### cd    *Change Directory*
+### pwd       &nbsp;//Print Wokring Directory
+### cd    &nbsp;//Change Directory
 ### cd (folder)
 ### cd ..
 ### cd ~
