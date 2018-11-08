@@ -10,7 +10,6 @@
 ### `mkdir`&nbsp;&nbsp; Make Directory
 ### `rmdir`&nbsp;&nbsp; Remove Directory
 ### `cp` &nbsp;&nbsp;Copy File or Directory
-### `./filename`
 ### `pushed`&nbsp;&nbsp; Push Directory
 ### `grep`&nbsp;&nbsp;Find Things inside Files
 ### `cat`&nbsp;&nbsp; Print the Whole File
