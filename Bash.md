@@ -1,6 +1,6 @@
-## more information please check about https://ss64.com/osx/
-### pwd   Print Wokring Directory
-### cd    Change Directory
+## More information please check about https://ss64.com/osx/
+### pwd       *Print Wokring Directory*
+### cd    *Change Directory*
 ### cd (folder)
 ### cd ..
 ### cd ~
